@@ -1,2 +1,4 @@
 # hello_world
-Just another repository
+Hi 
+I made changes because am just starting githubs so this is just a tutorial guild
+Thanks
